@@ -1,4 +1,4 @@
-# Alien Invader
+# Alien Invader Game
 
 I used Pygame to build this game
 
